@@ -1,7 +1,7 @@
 import os
 from aiogram import Bot
 
-TOKEN = "6111215163:AAFGgaMeXNsbR25-5iU7roEtR_-uDlFYwSE"
+TOKEN = "6805310383:AAHw7ekee57gEM-BhdLQBPgssjlYlzmfRA4"
 
 
 bot=Bot(token=TOKEN)
